@@ -1,0 +1,1 @@
+ start powershell -command "& 'C:\Script\Equallogic\MapSnapshot1.1.ps1'"
